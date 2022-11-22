@@ -24,9 +24,12 @@ class Cars {
     print("<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>");
 
     Cars mahindra = Cars();
-    print("hundai Cars");
+    print("mahindra Cars");
     print("name = ${mahindra.name = "XUV 700"}");
     print("cc = ${mahindra.cc = 2800}");
     print("model = ${mahindra.model = "hatchback"}");
     print("varient = ${mahindra.varient = "diesal"}");
+
+    print("<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>");
+
 }
